@@ -5,7 +5,7 @@ html {
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
-    font-family: "Akronim", system-ui;
+    font-family: "Oswald", sans-serif;
     box-sizing: border-box;
     
 }
@@ -41,7 +41,7 @@ img {
     color: rgb(182, 15, 15);
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(5, 177, 162);
     text-align: center;
 }
 
@@ -58,11 +58,11 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(128, 4, 4);
+    background-color: rgb(71, 71, 71);
     color: rgb(0, 227, 243);
     padding: 1em;
     border-radius: 0.5em;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 10px 10px 10px rgba(224, 6, 6, 0.2);
 }
 
 /* Styling for the topic card titles */
@@ -71,7 +71,7 @@ img {
     margin-bottom: 0.5em;
     /* center align text */
     text-align: center;
-    color:rgb(9, 221, 221)
+    color:darkcyan
 }
 
 
